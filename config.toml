@@ -5,7 +5,7 @@ theme = "minimal"
 googleAnalytics = ""
 
 [params]
-    author = "Gianluca Mazza"
+    author = "Valeriya Georgieva"
     description = "find your place in the Bitcoin industry"
     accent = "black"
     showBorder = true
@@ -47,21 +47,21 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/shoes-in-bitcoin/"
+    url = "https://www.linkedin.com/company/shoes-in-bitcoin/"
     name = "linkedin"
     weight = 3
 
 [[menu.icon]]
-url = ""
+url = "https://www.instagram.com/shoes.inbitcoin/"
 name = "instagram"
 weight = 4
 
 [[menu.icon]]
-url = ""
+url = "https://www.youtube.com/channel/UC8k72dXIrN0CzRSZC9l8Uvw?view_as=subscriber"
 name = "youtube"
 weight = 5
 
 [[menu.icon]]
-url= ""
+url= "https://telegram.me/valgeorgieva"
 name= "telegram"
 weight = 6

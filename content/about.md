@@ -4,5 +4,9 @@
 #### “It is your own responsibility to step in the right shoes.”
 #### [Valeriya Georgieva, Founder of Shoes in Bitcoin]
 
+---
+#### If you want to find a new opportunity in the Bitcoin industry send your CV to: 
+### <shoesinbitcoin@pm.me>
+
 
 

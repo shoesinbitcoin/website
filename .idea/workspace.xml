@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f8d27f0-d2e9-4bdd-a193-20af5cee3485" name="Default Changelist" comment="fix css" />
+    <list default="true" id="2f8d27f0-d2e9-4bdd-a193-20af5cee3485" name="Default Changelist" comment="fix css">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/jobs/post3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/jobs/post1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/jobs/post1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/jobs/post2.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/jobs/post2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="gke_docker-btcp_europe-west1-c_btcp-cluster" />
@@ -43,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603394847022</updated>
       <workItem from="1603394848258" duration="2209000" />
+      <workItem from="1603401654322" duration="2758000" />
     </task>
     <task id="LOCAL-00001" summary="fix css">
       <created>1603395039543</created>
